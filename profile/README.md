@@ -1,9 +1,8 @@
 # Meowlyzer – VS Code AI Debug Assistant
 
+a VS Code extension that helps developers debug faster by using Groq AI. 
 
-Groq Debugger is a VS Code extension that helps developers debug faster by using Groq AI. 
-
-It captures **code context**, **terminal logs**, learns about the **Project Structure** (goes through Config files to learn about the **Dependencies**), looks up the latest concerned tech stack docs, **builds context**, evaluates, and sends them to **Groq’s LLM** to provide real-time suggestions.
+It captures **code context**, **terminal logs**, learns about the **Project Structure** (goes through Config files to learn about the **Dependencies**), and sends them to **Groq’s LLM** which looks up the latest concerned tech stack docs, **builds context**, evaluates to provide real-time suggestions.
 
 ## Features
 
